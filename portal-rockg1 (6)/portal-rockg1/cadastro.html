@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cadastro | Você Sabia Rock</title>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body data-page="signup" data-base="">
+<div id="header-placeholder"></div>
+<main class="auth">
+  <section class="auth-poster" aria-hidden="true">
+    <p class="mono">Cadastro de novos leitores</p>
+    <h2>Na<br>pista<em>entre para a plateia.</em></h2>
+  </section>
+  <form class="pass" id="signup-form" novalidate>
+    <span class="pass-hole" aria-hidden="true"></span>
+    <p class="mono pass-k">Credencial · Leitor</p>
+    <h1>Crie sua conta</h1>
+    <label for="nome">Nome completo</label>
+    <input id="nome" name="nome" type="text" autocomplete="name">
+    <p class="err" data-for="nome"></p>
+    <label for="email">E-mail</label>
+    <input id="email" name="email" type="email" autocomplete="email">
+    <p class="err" data-for="email"></p>
+    <label for="senha">Senha</label>
+    <input id="senha" name="senha" type="password" autocomplete="new-password">
+    <p class="err" data-for="senha"></p>
+    <label for="confirma">Confirmar senha</label>
+    <input id="confirma" name="confirma" type="password" autocomplete="new-password">
+    <p class="err" data-for="confirma"></p>
+    <label class="chk"><input type="checkbox" name="termos"> Li e aceito os termos de uso</label>
+    <p class="err" data-for="termos"></p>
+    <button class="btn" type="submit">Pegar minha credencial</button>
+    <p class="pass-alt">Já tem conta? <a href="login.html">Entrar</a></p>
+    <span class="barcode" aria-hidden="true"></span>
+  </form>
+</main>
+<div id="player-placeholder"></div>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/player.js"></script>
+</body>
+</html>

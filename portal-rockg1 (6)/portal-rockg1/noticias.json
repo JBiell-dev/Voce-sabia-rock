@@ -1,0 +1,26 @@
+{
+  "atualizado_em": "2026-10-03",
+  "observacao": "Notícias reais. Cada item aponta para a fonte original; resumos são paráfrases curtas. Para atualizar, edite este arquivo com título, fonte, data e link verificados.",
+  "itens": [
+    {"categoria": "Lançamentos", "titulo": "Beatles, Who e Tony Iommi lideram os lançamentos de outubro de 2026",
+     "resumo": "Um box expandido de Rubber Soul (1965) traz 20 takes inéditos e três demos caseiras. The Who by Numbers (1975) ganha edição super deluxe com 92 faixas inéditas. Tony Iommi, do Black Sabbath, lança o disco solo From the Dark, com oito músicas novas.",
+     "fonte": "Ultimate Classic Rock", "data": "2026-09-16", "url": "https://ultimateclassicrock.com/october-2026-new-music-releases/"},
+    {"categoria": "Cinema", "titulo": "Queen Budapest chega aos cinemas e depois ao home video",
+     "resumo": "O filme estreia em cinemas e salas IMAX em 7 de outubro. As edições em disco (2CD, 3LP, DVD, Blu-ray e 4K UHD) saem em 30 de outubro.",
+     "fonte": "Ultimate Classic Rock", "data": "2026-09-16", "url": "https://ultimateclassicrock.com/october-2026-new-music-releases/"},
+    {"categoria": "Reedição", "titulo": "Judas Priest relança Sad Wings of Destiny nos 50 anos do disco",
+     "resumo": "As edições digitais, com os masters originais de 1976 e uma versão remixada e remasterizada, saem em 2 de outubro. CD e vinis chegam em 9 de outubro.",
+     "fonte": "Ultimate Classic Rock", "data": "2026-09-16", "url": "https://ultimateclassicrock.com/october-2026-new-music-releases/"},
+    {"categoria": "Reedições", "titulo": "National Album Day, no Reino Unido, reúne reedições em 17 de outubro",
+     "resumo": "A lista inclui Meddle, do Pink Floyd, Pearl, de Janis Joplin, Turbo, do Judas Priest, e Loaded, do Velvet Underground.",
+     "fonte": "Ultimate Classic Rock", "data": "2026-09-16", "url": "https://ultimateclassicrock.com/october-2026-new-music-releases/"},
+    {"categoria": "Cinema", "titulo": "Back to the Beginning, de Ozzy Osbourne e Black Sabbath, estreia nos cinemas em 28 de outubro",
+     "resumo": "O filme aparece na agenda de outubro como lançamento em salas de cinema.",
+     "fonte": "Ultimate Classic Rock", "data": "2026-09-16", "url": "https://ultimateclassicrock.com/october-2026-new-music-releases/"}
+  ],
+  "manchetes": [
+    {"titulo": "Metallica Makes Metal History at the Sphere: Videos, Set List", "fonte": "Ultimate Classic Rock", "url": "https://ultimateclassicrock.com/metallica-sphere-2026-videos-set-list/"},
+    {"titulo": "Slash Announces New 'Flying Blind' Album: Hear the Title Track", "fonte": "Ultimate Classic Rock", "url": "https://ultimateclassicrock.com/slash-flying-blind/"},
+    {"titulo": "Iron Maiden Wraps US Tour", "fonte": "Ultimate Classic Rock", "url": "https://ultimateclassicrock.com/iron-maiden-us-tour-closer-review-set-list-photos/"}
+  ]
+}
